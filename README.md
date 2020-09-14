@@ -10,7 +10,7 @@ its simple but great...!
 Hope you all enjoy
 good luck <3
 
-Youtube: B4GG3R
-Facebook: siratsami71
+Youtube: B4GG3R "https://www.youtube.com/channel/UCUApuDqQh7NnhQhd8pg_qLw" & Facebook: siratsami71
 
 For usage Run: ./X-Redirector.sh
+
