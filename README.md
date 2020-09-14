@@ -12,3 +12,7 @@ good luck <3
 
 Youtube: B4GG3R
 Facebook: siratsami71
+
+#Usage
+./X-Redirector.sh
+You should have a target url list.
