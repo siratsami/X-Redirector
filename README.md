@@ -9,39 +9,3 @@ I'm sorry if ther's any bug or something that cant help you well just like i sai
 its simple but great...!
 Hope you all enjoy
 good luck <3
-
-Simple Usage:
-$ ./X-Redirector.sh
-
- Youtube: B4GG3R
- Facebook: siratsami71
-
-Enter target url list:
-urls.txt
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-URL: https://example.com/
-URL: https://dr.example.com/
-location: http://foo.com/account/login
-URL: https://register.example.com/
-URL: https://daad.example.com/
-URL: https://goaway.example.com
-URL: https://dr.acronis.com/
-location: http://foo.com/account/login 
-URL: http://store.acronis.com
-URL: https://us-mail2.acronis.com
-URL: https://research.acronis.com/
- Done
