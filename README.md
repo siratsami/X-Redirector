@@ -9,8 +9,7 @@ The tool looks for the URLs which are redirecting by the `X-Forwarded-Host` HTTP
 I'm apologise if there's any bug or something, well just like I said it's my first tool
 A simple but great tool...!
 
-Hope you all enjoy
-Good luck <3
+Hope you all enjoy <3
 
 [Youtube: B4GG3R](https://www.youtube.com/channel/UCUApuDqQh7NnhQhd8pg_qLw)
 
