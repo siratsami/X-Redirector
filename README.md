@@ -1,16 +1,19 @@
 # x-redirector
-X-Redirector http redirect scanner
+HTTP redirect scanner
 
-This tools is designed by B4GG3R for BugBounty hunters who wants open redirect vulnerability
-It's my first tool and its works with curl & bash
-The tool is looking for the urls's which redirecting by "X-Forwarded-Host" http header
+Is a tool is designed by [B4GG3R](https://www.facebook.com/siratsami71) for BugBounty hunters who wants to open redirect vulnerability
+It's the first tool tool I made and it works with `curl` & `bash`.
 
-I'm sorry if ther's any bug or something that cant help you well just like i said its my first tool
-its simple but great...!
+The tool looks for the URLs which are redirecting by "X-Forwarded-Host" HTTP header.
+
+I'm apologise if there's any bug or something, well just like I said it's my first tool
+A simple but great tool...!
+
 Hope you all enjoy
-good luck <3
+Good luck <3
 
-Youtube: B4GG3R "https://www.youtube.com/channel/UCUApuDqQh7NnhQhd8pg_qLw" & Facebook: siratsami71
+[Youtube: B4GG3R](https://www.youtube.com/channel/UCUApuDqQh7NnhQhd8pg_qLw)
 
-For usage Run: ./X-Redirector.sh
+# Usage
+```./X-Redirector.sh```
 
